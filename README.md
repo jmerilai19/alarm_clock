@@ -4,4 +4,4 @@ This project was my course work for Principles of Digital Fabrication in the Uni
 
 This project is an Arduino powered alarm clock that runs away once it goes off.
 
-![](readme_pictures.png)
+![](readme_pictures.jpg)
